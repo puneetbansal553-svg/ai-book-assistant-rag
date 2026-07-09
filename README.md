@@ -54,12 +54,6 @@ AI-Book-Assistant-RAG/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-│
-├── uploads/
-├── chroma-db/
-├── Document loaders/
-├── retrievers/
-└── Vector store/
 ```
 
 ---
