@@ -11,6 +11,9 @@ __pycache__/
 
 # Chroma Database
 chroma-db/
+Document loaders/
+retrievers/
+Vector store/
 
 # Uploaded PDFs
 uploads/
