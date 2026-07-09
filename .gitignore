@@ -11,6 +11,8 @@ __pycache__/
 
 # Chroma Database
 chroma-db/
+
+# Practice folders
 Document loaders/
 retrievers/
 Vector store/
